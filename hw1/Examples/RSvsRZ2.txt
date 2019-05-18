@@ -1,0 +1,100 @@
+Soldier1 changed direction to (-0.95, -0.31).
+Soldier1 moved to (5.25, 8.43).
+Zombie1 changed direction to (0.85, -0.53).
+Zombie1 moved to (44.25, 37.37).
+Soldier1 moved to (0.51, 6.86).
+Zombie1 moved to (48.50, 34.73).
+Soldier1 changed direction to (-0.84, 0.54).
+Zombie1 changed direction to (-0.26, 0.97).
+Soldier1 changed direction to (0.98, -0.22).
+Zombie1 moved to (47.19, 39.56).
+Soldier1 moved to (5.38, 5.75).
+Zombie1 moved to (45.88, 44.39).
+Soldier1 moved to (10.26, 4.64).
+Zombie1 moved to (44.57, 49.21).
+Soldier1 moved to (15.13, 3.53).
+Zombie1 changed direction to (0.76, 0.65).
+Soldier1 moved to (20.01, 2.42).
+Zombie1 changed direction to (-0.58, 0.82).
+Soldier1 moved to (24.88, 1.31).
+Zombie1 changed direction to (0.85, -0.53).
+Soldier1 moved to (29.76, 0.20).
+Zombie1 moved to (48.80, 46.55).
+Soldier1 changed direction to (-0.98, 0.20).
+Zombie1 changed direction to (-0.54, -0.84).
+Soldier1 moved to (24.86, 1.22).
+Zombie1 moved to (46.10, 42.34).
+Soldier1 moved to (19.97, 2.24).
+Zombie1 moved to (43.39, 38.14).
+Soldier1 moved to (15.08, 3.26).
+Zombie1 moved to (40.68, 33.94).
+Soldier1 moved to (10.18, 4.29).
+Zombie1 moved to (37.97, 29.74).
+Soldier1 moved to (5.29, 5.31).
+Zombie1 moved to (35.26, 25.53).
+Soldier1 moved to (0.39, 6.33).
+Zombie1 moved to (32.56, 21.33).
+Soldier1 changed direction to (0.07, 1.00).
+Zombie1 moved to (29.85, 17.13).
+Soldier1 moved to (0.75, 11.32).
+Zombie1 moved to (27.14, 12.92).
+Soldier1 moved to (1.10, 16.30).
+Zombie1 moved to (24.43, 8.72).
+Soldier1 moved to (1.46, 21.29).
+Zombie1 moved to (21.72, 4.52).
+Soldier1 moved to (1.81, 26.28).
+Zombie1 moved to (19.01, 0.31).
+Soldier1 moved to (2.17, 31.27).
+Zombie1 changed direction to (0.77, -0.64).
+Soldier1 moved to (2.53, 36.25).
+Zombie1 changed direction to (0.66, 0.76).
+Soldier1 moved to (2.88, 41.24).
+Zombie1 moved to (22.29, 4.09).
+Soldier1 moved to (3.24, 46.23).
+Zombie1 moved to (25.57, 7.87).
+Soldier1 changed direction to (0.71, -0.71).
+Zombie1 moved to (28.84, 11.65).
+Soldier1 moved to (6.76, 42.68).
+Zombie1 moved to (32.12, 15.42).
+Soldier1 moved to (10.29, 39.14).
+Zombie1 moved to (35.39, 19.20).
+Soldier1 moved to (13.82, 35.59).
+Zombie1 moved to (38.67, 22.98).
+Soldier1 moved to (17.34, 32.05).
+Zombie1 moved to (41.95, 26.75).
+Soldier1 moved to (20.87, 28.51).
+Zombie1 moved to (45.22, 30.53).
+Soldier1 moved to (24.40, 24.96).
+Zombie1 moved to (48.50, 34.31).
+Soldier1 moved to (27.92, 21.42).
+Zombie1 changed direction to (-0.87, -0.50).
+Soldier1 moved to (31.45, 17.87).
+Zombie1 moved to (44.16, 31.83).
+Zombie1 changed direction to (-0.67, -0.74).
+Zombie1 changed state to FOLLOWING.
+Soldier1 moved to (34.97, 14.33).
+Soldier1 changed state to AIMING.
+Zombie1 moved to (40.79, 28.13).
+Soldier1 changed direction to (0.39, 0.92).
+Soldier1 changed state to SHOOTING.
+Zombie1 moved to (37.43, 24.43).
+Soldier1 fired Bullet0 to direction (0.39, 0.92).
+Soldier1 changed state to AIMING.
+Zombie1 moved to (34.06, 20.74).
+Soldier1 changed direction to (-0.14, 0.99).
+Soldier1 changed state to SHOOTING.
+Zombie1 moved to (30.69, 17.04).
+Zombie1 changed state to WANDERING.
+Bullet0 moved out of bounds.
+Soldier1 fired Bullet1 to direction (-0.14, 0.99).
+Soldier1 changed state to AIMING.
+Zombie1 moved to (27.32, 13.34).
+Zombie1 changed direction to (0.99, 0.13).
+Zombie1 changed state to FOLLOWING.
+Soldier1 changed direction to (-0.99, -0.13).
+Soldier1 changed state to SHOOTING.
+Zombie1 moved to (32.28, 13.98).
+Bullet1 moved out of bounds.
+Soldier1 fired Bullet2 to direction (-0.99, -0.13).
+Soldier1 changed state to AIMING.
+Zombie1 killed Soldier1.
